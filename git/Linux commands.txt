@@ -1,0 +1,46 @@
+Using Linux command
+
+Linux was written in 1991 by linus Travald
+linux distrox are ubuntu, fedora, debian, mint etc
+
+...commands lines are
+
+pwd - point toworking directory
+ls - list contents in the current directory
+ls -a : show hidden files
+ls -l  : show all/complete discription information in the current file
+cd : use to navigate btw directories/folder
+        cd foldername
+cd .. : Go out of the current folder
+cd / : Go to route
+mv :   move -- mv currentfolder newfolder
+cp :  copy
+rm : remove -- rm folder or item in a folder
+mkdir : make new directory - mkdir newdirectory
+rmdir : remove directory
+rm -r : completely delete a older that has a content in it -- rm -r foldername
+dir - display file
+get - download
+put - upload
+quit - quit
+clear : clear
+man : manual -- man cd, man ls, man pwd
+      it works like --help/ -h
+
+
+LINUX NETWORKING COMMANDS
+uname
+hostname
+ip link
+ip address
+ipconfig
+ifconfig
+lsof
+ping
+netstat
+traceroute
+ftp
+telnet
+ssh
+sudo
+
